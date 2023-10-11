@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "dsadsadsad",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/psychic-tribble",
+        "githubUri": "https://github.com/rizarsyi/psychic-tribble",
+        "license": "apache-2.0",
+        "lastUpdated": "1697050536422",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
